@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic[email]
+python-jose[cryptography]
+passlib
+openai
+python-multipart
+pymupdf
+razorpay
+python-dotenv
+cors
+reportlab
+gunicorn
+psycopg2-binary
+uvicorn
